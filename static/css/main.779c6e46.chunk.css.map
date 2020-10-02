@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,cACE,eAAgB,CAChB,YAAa,CACb,qBAAsB,CACtB,cACF,CAEA,QACE,aACF","file":"main.779c6e46.chunk.css","sourcesContent":[".my-container {\r\n  max-width: 500px;\r\n  display: flex;\r\n  flex-direction: column;\r\n  padding: 20px 0;\r\n}\r\n\r\n.button {\r\n  margin: 10px 0;\r\n}\r\n"]}
