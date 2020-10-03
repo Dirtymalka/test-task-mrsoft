@@ -5,6 +5,16 @@
   padding: 20px 0;
 }
 
+.header {
+  display: flex;
+  flex-direction: column;
+}
+
 .button {
   margin: 10px 0;
+}
+
+.list-strings {
+  max-height: 500px;
+  overflow: auto;
 }
